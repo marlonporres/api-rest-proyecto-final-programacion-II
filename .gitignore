@@ -1,0 +1,34 @@
+# Compilación y paquetes
+/target/
+*.class
+*.jar
+*.war
+*.log
+hs_err_pid*
+replay_pid*
+
+# Configuración privada; conservar únicamente las plantillas
+/config/database.properties
+**/database.properties
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Entorno local e IDE
+/.idea/
+/.vscode/
+*.iml
+/.classpath
+/.project
+/.settings/
+/tmp/
+.DS_Store
+Thumbs.db
+# Herramientas y configuración privada del túnel
+/tools/
+/ngrok.yml
+/ngrok.yaml

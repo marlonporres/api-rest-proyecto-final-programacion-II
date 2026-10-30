@@ -1,0 +1,5 @@
+# Plantilla sin credenciales reales. Copiar a config/database.properties.
+# El archivo privado queda fuera del JAR y del control de versiones.
+db.url=jdbc:sqlserver://localhost:1433;databaseName=SistemaVentas;encrypt=false;loginTimeout=5
+db.user=USUARIO_LOCAL
+db.password=CAMBIAR_CONTRASENA_LOCAL
