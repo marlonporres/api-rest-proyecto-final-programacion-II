@@ -1,4 +1,4 @@
-param([switch]$SoloVerificar)
+﻿param([switch]$SoloVerificar)
 $ErrorActionPreference='Stop'
 $raizTunel=Split-Path -Parent $PSScriptRoot
 $exeTunel=Join-Path $raizTunel 'tools\ngrok.exe'
