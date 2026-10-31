@@ -1,3 +1,5 @@
+**Repositorio de entrega:** [ventas-api-rest](https://github.com/marlonporres/api-rest-proyecto-final-programacion-II)
+
 > **Entrega vigente: Android + API REST (8 puntos).** Leer [estudio y defensa](docs/GUIA_ESTUDIO_8_PUNTOS.md), [demostración con ngrok](docs/DEMOSTRACION_8_PUNTOS.md) y [enlaces de entrega](docs/ENTREGA_REPOSITORIOS.md). El flujo evaluado es Android → ngrok → API → SQL → respuesta.
 
 # Ventas · API REST
